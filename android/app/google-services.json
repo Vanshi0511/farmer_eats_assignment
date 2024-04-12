@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "746385504918",
+    "firebase_url": "https://farmereats-a0ccc-default-rtdb.firebaseio.com",
+    "project_id": "farmereats-a0ccc",
+    "storage_bucket": "farmereats-a0ccc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746385504918:android:f977f71f94d80dfd2ba0b7",
+        "android_client_info": {
+          "package_name": "com.example.famer_eats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746385504918-i523gisgpbuhm47jreb2eu8j4mm2pjb8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.famer_eats",
+            "certificate_hash": "2a78cb4d0df3ed345e99a2301ea713b42fc7c158"
+          }
+        },
+        {
+          "client_id": "746385504918-ei1t82o3rjg9lrjcao8qodn2je13rscv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt0hb2d7es2Z_X52JZS5ovUbhRIwgbhJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746385504918-ei1t82o3rjg9lrjcao8qodn2je13rscv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "746385504918-4c3jjgf45qb7jlcske4p463vl256n9nu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.famerEats"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

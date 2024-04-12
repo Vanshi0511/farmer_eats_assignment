@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FarmerEats</string>
+    <string name="facebook_app_id">1122156112147534</string>
+    <string name="fb_login_protocol_scheme">fb1122156112147534</string>
+    <string name="facebook_client_token">5420b80ae21a3246b4203f6660bb3937</string>
+
+<!--    https://farmereats-a0ccc.firebaseapp.com/__/auth/handler-->
+
+</resources>

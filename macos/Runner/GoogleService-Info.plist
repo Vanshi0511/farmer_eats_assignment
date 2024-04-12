@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>746385504918-8dlsgsvb91tem8l7pj5lb1nra3nv7ha2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.746385504918-8dlsgsvb91tem8l7pj5lb1nra3nv7ha2</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>746385504918-i523gisgpbuhm47jreb2eu8j4mm2pjb8.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAJE8Zlx5cjfVl_Pcf28E6b9r-mBmgx2as</string>
+	<key>GCM_SENDER_ID</key>
+	<string>746385504918</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.famerEats.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>farmereats-a0ccc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>farmereats-a0ccc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:746385504918:ios:9f00fd98b85a26cc2ba0b7</string>
+	<key>DATABASE_URL</key>
+	<string>https://farmereats-a0ccc-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
